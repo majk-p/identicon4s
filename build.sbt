@@ -1,5 +1,5 @@
 val Scala213 = "2.13.8"
-val Scala3 = "3.1.2"
+val Scala3 = "3.1.3"
 
 ThisBuild / tlBaseVersion := "0.0"
 
@@ -28,7 +28,7 @@ val compilerOptions = Seq(
 
 val Versions = new {
   val Cats = "2.7.0"
-  val CatsEffect = "3.3.12"
+  val CatsEffect = "3.3.13"
 }
 
 val Dependencies = new {
